@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    border: 3px solid red;
+}
+
+header {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Caixas {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 50px;
+}
+
+a {
+    width: 70px;
+    height: 70px;
+    border: 2px solid blue;
+}

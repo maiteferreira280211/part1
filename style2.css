@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+      height: 100vh;
+      border: 3px solid red ;
+  }
+  
+  header{
+      height: 70px;
+      border: 2px solid blue;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  
+  a{
+      width: 150px;
+      height: 45px;
+      border: 2px solid green;
+      color: black;
+  }

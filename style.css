@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body {
+    height: 100vh;
+    border: 3px solid red;
+}
+
+header {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    width: 220px;
+    height: 150px;
+    border: 2px solid blue;
+    color: black;
+}
